@@ -1,0 +1,19 @@
+.block{
+    border:2px solid;
+    height: 100px;
+    width:100px;
+    cursor:pointer;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Fredoka",sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+.row{
+    display:flex;
+
+}
+.board{
+    padding:20px;
+}
